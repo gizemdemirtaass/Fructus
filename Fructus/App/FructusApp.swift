@@ -18,7 +18,7 @@ struct FructusApp: App {
             } else {
                 ContentView()
             }
-            //Yorum
+            
         }
     }
 }
